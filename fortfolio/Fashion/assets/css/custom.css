@@ -1,5 +1,5 @@
 /* Add your custom CSS here */
-
+header h1 { font-size: var(--font-size-xxxl) }
 .section-selector-1 {
     background-color: var(--green-800)
 }
